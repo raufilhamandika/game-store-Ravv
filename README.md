@@ -8,7 +8,20 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </div>
 
-A responsive gaming storefront for top-up and boosting services, designed for Mobile Legends, PUBG Mobile, Free Fire, Genshin Impact, and Roblox.
+<br />
+
+Dykojoki.id is a responsive gaming storefront web application designed for top-up and boosting services covering popular titles like Mobile Legends, PUBG Mobile, Free Fire, Genshin Impact, and Roblox.
+
+🌐 **Live Demo:** [https://raufilhamandika.github.io/game-store-Ravv/](https://raufilhamandika.github.io/game-store-Ravv/)
+
+---
+
+Key Features:
+• Game Catalog & Services: Fast top-up browsing, promo sliders, and featured game categories.
+• Interactive UI/UX: Dark/light mode toggle and a fully responsive, mobile-friendly interface.
+• Built-in Utilities: Integrated calculator module, payment/order pages, user review forms, and terms/privacy sections.
+
+Tech Stack: HTML5, CSS3, JavaScript, Font Awesome, Google Fonts.
 
 ## ✨ Highlights
 
